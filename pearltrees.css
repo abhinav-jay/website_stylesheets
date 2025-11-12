@@ -1,0 +1,38 @@
+* {
+  border-color: #7aa2f7 !important;
+}
+.content-layout.content-layout-animated {
+  background-color: #212121;
+}
+#tree-title-start {
+  color: #e8e8e8;
+}
+.uipearl-excited-mask {
+  border: 2px solid #7aa2f7;
+}
+.button {
+  background-color: #212121 !important;
+}
+.nodeaction-add {
+  background-color: #212121 !important;
+}
+.nodeaction-customize {
+  background-color: #212121 !important;
+}
+.nodeaction-share {
+  background-color: #212121 !important;
+}
+.bottom-bar-background-center {
+  background-color: #313131;
+}
+#bottom-bar {
+  display: inline-block;
+  background-color: red;
+}
+.bottom-bar-button {
+  background-color: #212121;
+}
+.uipearl-label {
+  background-color: #313131;
+  color: #e8e8e8;
+}
