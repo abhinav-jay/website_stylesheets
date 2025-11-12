@@ -5,5 +5,5 @@ This style is [available](https://github.com/abhinav-jay/website_stylesheets/blo
 ## pronote
 This style isn't available yet.
 ## pearltrees
-This style isn't available yet.
+This style is [available](https://github.com/abhinav-jay/website_stylesheets/blob/main/pearltrees.css)
 
