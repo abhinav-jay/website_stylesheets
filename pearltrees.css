@@ -23,11 +23,10 @@
   background-color: #212121 !important;
 }
 .bottom-bar-background-center {
-  background-color: #313131;
+  background-color: #313131 !important;
 }
 #bottom-bar {
-  display: inline-block;
-  background-color: red;
+  display: none;
 }
 .bottom-bar-button {
   background-color: #212121;
@@ -35,4 +34,32 @@
 .uipearl-label {
   background-color: #313131;
   color: #e8e8e8;
+}
+.sprite-bottombar-zoom_max {
+  background-color: #313131;
+}
+#navbar-left-container {
+  backdrop-filter: blur(10px) saturate(20%);
+  border-bottom: 1px solid;
+  display: inline-block;
+  position: fixed;
+  padding-bottom: 10px;
+  margin: 0;
+  width: 50%;
+}
+#navbar-right-container {
+  margin: 0;
+  width: 50%;
+  backdrop-filter: blur(10px) saturate(20%);
+  border-bottom: 1px solid;
+  display: inline-block;
+  padding-bottom: 12.0px;
+  padding-left: 10px;
+}
+#search-widget {
+  width: 70%;
+  background-color: #212121;
+}
+#search-feed {
+  background-color: #212121;
 }
